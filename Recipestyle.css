@@ -1,0 +1,27 @@
+h1 {
+	color: blue;
+}
+h3 {
+	color: brown;
+	font-size: 20px;
+
+}
+body {
+		
+}
+
+div {
+	padding-top: 5px;
+	background-color: white;
+}
+div#header {
+	background-image: url("breakfast-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-transform: uppercase;
+}
+div.directions {
+	background-image: url("baking2-background.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
